@@ -1,1 +1,1 @@
-# Bharat Intern - Wine Quality Prediction
+# Task 2 - Wine Quality Prediction
