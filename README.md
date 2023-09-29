@@ -1,4 +1,4 @@
-# Task 2 - Wine Quality Prediction
+# Task  - Wine Quality Prediction
 This repository contains a machine learning model for predicting the quality of wines based on various features. The project demonstrates how to create a wine quality prediction model using linear regression in Python.
 
 ---
